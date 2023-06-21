@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\bin\Debug\net6.0\bankapp.exe
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\bin\Debug\net6.0\bankapp.deps.json
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\bin\Debug\net6.0\bankapp.runtimeconfig.json
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\bin\Debug\net6.0\bankapp.dll
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\bin\Debug\net6.0\bankapp.pdb
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.AssemblyInfo.cs
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.dll
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\refint\bankapp.dll
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.pdb
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\bankapp.genruntimeconfig.cache
+C:\Users\USER\Desktop\myBank_App\bankapp\bankapp\obj\Debug\net6.0\ref\bankapp.dll
